@@ -22,7 +22,7 @@ Cette flexibilité le rend idéal pour des interventions rapides sur plusieurs p
 <br>
 <h1>Obtenir maintenant</h1>
 <br>
-<img src="boite.png" alt="Logo" width="280">
+<img src="boite.png" alt="Logo" width="250">
 <a href="https://google.fr/">
   <img src="bouton.png" alt="Logo" width="200">
 </a><br>
